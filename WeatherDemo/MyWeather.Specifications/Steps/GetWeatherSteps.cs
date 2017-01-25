@@ -1,6 +1,7 @@
 ﻿using System;
 
 using TechTalk.SpecFlow;
+using Xamarin.UITest;
 
 namespace MyWeather.Specifications
 {
